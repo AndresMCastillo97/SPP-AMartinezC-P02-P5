@@ -1,14 +1,22 @@
+//Proyecto Parcial 2 
+//Problema 5
+//Equipo Epsilon
+//Nombres, matrículas y carreras de integrantes de equipo:
+//Roberto Alain Rivera Bravo | A01411516 | IMT11
+//Fabricio Arturo Balboa Cavazos | A01411541 | IMT11
+//Andrés de Jesús Martínez Castillo | A01411447 | IMT11
+//Jessica Delgado González | A01411536 | IMT11
+//Alfredo Alejandro Lárraga Sosa | A01410278 | LMC
+
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+5.	Dada una matriz de dos dimensiones con tamaño y contenido determinado por el usuario, 
+realice un programa que calcule la suma de cada fila y guarde su resultado un vector en la posición correspondiente. 
+Al minal deberá recorrer el lector para mostrar el resultado de las sumas.
+*/
+
 package spp.amartinezc.p02.p5;
 import java.util.Scanner;
-/**
- *
- * @author andres
- */
+
 public class SPPAMartinezCP02P5 {
 
     /**
